@@ -14,6 +14,7 @@
 		48780E4021F8E82E00EF035F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48780E3E21F8E82E00EF035F /* LaunchScreen.storyboard */; };
 		48780E4B21F8E82E00EF035F /* Lab3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48780E4A21F8E82E00EF035F /* Lab3Tests.swift */; };
 		48780E5621F8E82E00EF035F /* Lab3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48780E5521F8E82E00EF035F /* Lab3UITests.swift */; };
+		48780E6421F8E91A00EF035F /* Restaurants.plist in Resources */ = {isa = PBXBuildFile; fileRef = 48780E6321F8E91A00EF035F /* Restaurants.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		48780E5121F8E82E00EF035F /* Lab3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48780E5521F8E82E00EF035F /* Lab3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3UITests.swift; sourceTree = "<group>"; };
 		48780E5721F8E82E00EF035F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48780E6321F8E91A00EF035F /* Restaurants.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Restaurants.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		48780E3421F8E82D00EF035F /* Lab3 */ = {
 			isa = PBXGroup;
 			children = (
+				48780E6321F8E91A00EF035F /* Restaurants.plist */,
 				48780E3521F8E82D00EF035F /* AppDelegate.swift */,
 				48780E3721F8E82D00EF035F /* ViewController.swift */,
 				48780E3921F8E82D00EF035F /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				48780E4021F8E82E00EF035F /* LaunchScreen.storyboard in Resources */,
 				48780E3D21F8E82E00EF035F /* Assets.xcassets in Resources */,
 				48780E3B21F8E82D00EF035F /* Main.storyboard in Resources */,
+				48780E6421F8E91A00EF035F /* Restaurants.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
